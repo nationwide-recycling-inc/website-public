@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nationwiderecyclinginc.com/sitemap-index.xml
+
+# AI/LLM crawler info: /llms.txt

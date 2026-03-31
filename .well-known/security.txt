@@ -1,0 +1,3 @@
+Contact: mailto:info@nationwiderecyclinginc.com
+Preferred-Languages: en
+Canonical: https://nationwiderecyclinginc.com/.well-known/security.txt

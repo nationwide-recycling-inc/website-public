@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Nationwide Recycling Inc
+Location: Edison, NJ, USA
+Contact: info@nationwiderecyclinginc.com
+
+/* SITE */
+Built with: Astro, Tailwind CSS
+Last updated: 2026-03-29
+Standards: HTML5, CSS3
